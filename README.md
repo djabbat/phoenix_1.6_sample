@@ -1,12 +1,12 @@
 # SampleApp
 
-![image](https://github.com/djabbat/phoenix_sample/assets/8047668/c558754c-fd08-4023-8461-e44e98444ab1)
-
+![image](https://github.com/djabbat/phoenix_sample/assets/8047668/680c6b0b-b93f-453c-b8bf-b7fe2fc1fcb8)
 
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get
   * Create and migrate your database with `mix ecto.setup`
+  * Install ~/sample_app/assets$ npm install
   * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
