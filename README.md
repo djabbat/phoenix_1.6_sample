@@ -1,7 +1,5 @@
 # SampleApp
 
-![image](https://github.com/djabbat/phoenix_sample/assets/8047668/680c6b0b-b93f-453c-b8bf-b7fe2fc1fcb8)
-
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get
